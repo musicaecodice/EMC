@@ -1,2 +1,2 @@
 # EMC
-Electroacoustic Music Composition [POLIMI]
+Electroacoustic Composition [POLIMI]
