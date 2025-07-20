@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {0.1}Preliminary reflections}{3}{section.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Concrete things}{3}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Pre-linguistic}{6}{subsection.0.1.2}%
+\contentsline {subsubsection}{Natural language}{6}{section*.2}%
+\contentsline {subsubsection}{Musical language}{7}{section*.3}%
+\contentsline {subsection}{\numberline {0.1.3}Compose a phone number}{7}{subsection.0.1.3}%
+\contentsline {subsubsection}{Phonetic-phonological level }{8}{section*.4}%
+\contentsline {subsubsection}{Morphosyntactic level }{9}{section*.5}%
+\contentsline {subsubsection}{Syntactic level }{10}{section*.6}%
+\contentsline {subsubsection}{Semantic level}{12}{section*.7}%
+\contentsline {subsection}{\numberline {0.1.4}Perceive and process }{13}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {0.1.5}Re-compose a puzzle}{13}{subsection.0.1.5}%
+\contentsline {section}{\numberline {0.2}Music's meanings }{14}{section.0.2}%
+\contentsline {subsection}{\numberline {0.2.1}Signs and sounds }{15}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {0.2.2}Composers, players and listeners }{16}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {0.2.3}Do you know this music? }{17}{subsection.0.2.3}%
+\contentsline {subsection}{\numberline {0.2.4}Do you like this music?}{19}{subsection.0.2.4}%
+\contentsline {subsection}{\numberline {0.2.5}Texts and narratives}{19}{subsection.0.2.5}%
+\contentsline {section}{\numberline {0.3}Forms of human expression}{20}{section.0.3}%
+\contentsline {subsection}{\numberline {0.3.1}Poietic dimension}{21}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {0.3.2}Aesthesic dimension}{22}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {0.3.3}The work itself}{22}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {0.3.4}Final reflections}{24}{subsection.0.3.4}%
