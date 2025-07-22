@@ -3,40 +3,40 @@
 \contentsline {subsection}{\numberline {1.1.1}Concrete things}{5}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.1.2}Pre-linguistic}{6}{subsection.1.1.2}%
 \contentsline {subsubsection}{Natural language}{7}{section*.2}%
-\contentsline {subsubsection}{Musical language}{8}{section*.3}%
+\contentsline {subsubsection}{Musical language}{7}{section*.3}%
 \contentsline {subsection}{\numberline {1.1.3}Compose a phone number}{8}{subsection.1.1.3}%
-\contentsline {subsubsection}{Phonetic-phonological level }{9}{section*.4}%
-\contentsline {subsubsection}{Morphosyntactic level }{10}{section*.5}%
-\contentsline {subsubsection}{Syntactic level }{11}{section*.6}%
-\contentsline {subsubsection}{Semantic level}{13}{section*.7}%
-\contentsline {subsection}{\numberline {1.1.4}Perceive and process }{14}{subsection.1.1.4}%
-\contentsline {subsection}{\numberline {1.1.5}Re-compose a puzzle}{14}{subsection.1.1.5}%
-\contentsline {section}{\numberline {1.2}Music's meanings }{15}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Signs and sounds }{16}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Composers, players and listeners }{17}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Do you know this music? }{18}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}Do you like this music?}{20}{subsection.1.2.4}%
-\contentsline {subsection}{\numberline {1.2.5}Texts and narratives}{20}{subsection.1.2.5}%
-\contentsline {section}{\numberline {1.3}Forms of human expression}{21}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Poietic dimension}{22}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Aesthesic dimension}{23}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}The work itself}{23}{subsection.1.3.3}%
-\contentsline {subsection}{\numberline {1.3.4}Final reflections}{25}{subsection.1.3.4}%
-\contentsline {chapter}{\numberline {2}Genres, instruments and tools}{27}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Genres of electroacoustic music }{27}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Non interactive systems}{27}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Fixed media music }{28}{subsection.2.2.1}%
-\contentsline {subsubsection}{Acousmatic music }{28}{section*.8}%
-\contentsline {subsubsection}{Wallpaper music, ambient music and soundscapes }{30}{section*.9}%
-\contentsline {subsubsection}{Radiodrama }{32}{section*.10}%
-\contentsline {subsubsection}{Computer music - algorithmic composition}{33}{section*.11}%
-\contentsline {subsection}{\numberline {2.2.2}Live sequencing}{34}{subsection.2.2.2}%
-\contentsline {subsubsection}{Sound design for performing arts or video }{34}{section*.12}%
-\contentsline {subsubsection}{Sound design for gaming}{34}{section*.13}%
-\contentsline {section}{\numberline {2.3}Interactive systems }{35}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Hyper-instrument}{36}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Live set }{37}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Live coding}{37}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}The virtual instrument paradigm}{38}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Software installation }{38}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Instrumental model}{38}{subsection.2.4.2}%
+\contentsline {subsubsection}{Phonetic-phonological level }{8}{section*.4}%
+\contentsline {subsubsection}{Morphosyntactic level }{9}{section*.5}%
+\contentsline {subsubsection}{Syntactic level }{10}{section*.6}%
+\contentsline {subsubsection}{Semantic level}{11}{section*.7}%
+\contentsline {subsection}{\numberline {1.1.4}Perceive and process }{12}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Re-compose a puzzle}{13}{subsection.1.1.5}%
+\contentsline {section}{\numberline {1.2}Music's meanings }{13}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Signs and sounds }{14}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Composers, players and listeners }{15}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Do you know this music? }{16}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Do you like this music?}{17}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Texts and narratives}{18}{subsection.1.2.5}%
+\contentsline {section}{\numberline {1.3}Forms of human expression}{19}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Poietic dimension}{19}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Aesthesic dimension}{20}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}The work itself}{21}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Final reflections}{22}{subsection.1.3.4}%
+\contentsline {chapter}{\numberline {2}Genres, instruments and tools}{25}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Genres}{25}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Non interactive systems}{25}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Fixed media music }{26}{subsection.2.2.1}%
+\contentsline {subsubsection}{Acousmatic music }{26}{section*.8}%
+\contentsline {subsubsection}{Wallpaper music, ambient music and soundscapes }{28}{section*.9}%
+\contentsline {subsubsection}{Radiodrama }{29}{section*.10}%
+\contentsline {subsubsection}{Computer music - algorithmic composition}{30}{section*.11}%
+\contentsline {subsection}{\numberline {2.2.2}Live sequencing}{31}{subsection.2.2.2}%
+\contentsline {subsubsection}{Sound design for performing arts or video }{31}{section*.12}%
+\contentsline {subsubsection}{Sound design for gaming}{32}{section*.13}%
+\contentsline {section}{\numberline {2.3}Interactive systems }{32}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Hyper-instrument}{33}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Live set }{34}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Live coding}{34}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}The virtual instrument paradigm}{34}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Software installation }{35}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Instrumental model}{35}{subsection.2.4.2}%
