@@ -649,15 +649,18 @@ We also establish the basic parameters we want to control dynamically (they will
 \includegraphics[scale=0.35]{../img/modello.png}
 \end{center}
 
+\begin{lstlisting}[frame=single] 
+s.boot;
+s.meter;
+s.scope;
+s.plotTree;
+\end{lstlisting}
+
 In SuperCollider we can define it with the `SynthDef' (synthesis definition) class.
 
 This class contains the instructions (algorithms) needed to build multiple copies (instances) derived from the model.
 
 \begin{lstlisting}[frame=single] 
-s.boot;
-s.plotTree;
-s.scope;
-
 SynthDef.new(\ciccio, {arg freq=500, amp=0, dur=1, pan=0, pantime(0.0), 
                            out=0, t_gate=0, done=2;
                        var sig, env;

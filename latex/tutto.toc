@@ -37,6 +37,45 @@
 \contentsline {subsection}{\numberline {2.3.1}Hyper-instrument}{33}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Live set }{34}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Live coding}{34}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}The virtual instrument paradigm}{34}{section.2.4}%
+\contentsline {section}{\numberline {2.4}The virtual instrument paradigm}{35}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Software installation }{35}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Instrumental model}{35}{subsection.2.4.2}%
+\contentsline {chapter}{\numberline {3}Fixed media}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Historical framework}{39}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Elements and strategies}{39}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Sound objects}{40}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Objects, structure and form }{40}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Musical objects}{41}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Time courses and musical forms}{43}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}The poietic dimension: determinism}{45}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}Sound processing techniques in SuperCollider}{47}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Buffers}{47}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Sampling }{48}{subsection.3.3.2}%
+\contentsline {subsubsection}{Sequencing - windowing}{48}{section*.14}%
+\contentsline {subsubsection}{Enveloping}{49}{section*.15}%
+\contentsline {subsection}{\numberline {3.3.3}Scratching}{51}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Structures, DAW and scoring}{52}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Composition sketches proposal}{54}{subsection.3.3.5}%
+\contentsline {chapter}{\numberline {4}Computer music}{57}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Historical framework}{57}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Randomness}{59}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Chance }{59}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Indeterminacy}{60}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Alea}{61}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Sound synthesis}{62}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Additive}{62}{subsection.4.3.1}%
+\contentsline {subsubsection}{Wavetables}{62}{section*.16}%
+\contentsline {subsubsection}{Vectorial}{63}{section*.17}%
+\contentsline {subsubsection}{PWM}{64}{section*.18}%
+\contentsline {subsubsection}{Classic}{65}{section*.19}%
+\contentsline {subsection}{\numberline {4.3.2}Subtractive}{66}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}FM}{67}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}FFT}{69}{subsection.4.3.4}%
+\contentsline {paragraph}{Spectral Delay}{69}{section*.20}%
+\contentsline {paragraph}{BrickWall filter}{69}{section*.21}%
+\contentsline {paragraph}{Rect Comb filter}{70}{section*.22}%
+\contentsline {paragraph}{Mag Smear}{70}{section*.23}%
+\contentsline {paragraph}{Freeze}{70}{section*.24}%
+\contentsline {paragraph}{Cross synthesys.}{71}{section*.25}%
+\contentsline {section}{\numberline {4.4}Algorithmic structures}{71}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Composition sketches proposal}{72}{section.4.5}%
